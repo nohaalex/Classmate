@@ -1,1 +1,3 @@
 Hello classmate - This is our first project
+
+Second line added - We need to commit this first before pushing to online repo
